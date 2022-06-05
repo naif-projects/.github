@@ -1,6 +1,6 @@
-# CHALLENGES
+## CHALLENGES FROM FRONTEND MENTOR
 
-## NEWBIE
+### NEWBIE
 
 - ✅ qr-code-component-main
 - NFT preview card component
