@@ -1,12 +1,24 @@
-## Hi there 👋
+## labels
+🎨 tailwind css
+🚀 JavaScript
 
-<!--
+## CHALLENGES FROM FRONTEND MENTOR
 
-**Here are some ideas to get you started:**
+### NEWBIE
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- ✅ qr-code-component-main [demo](https://naif-projects.github.io/qr-code-component-main/)
+- ✅ NFT preview card component [demo](https://naif-projects.github.io/nft-preview-card-component-main/)
+- ✅ Interactive rating component [demo](https://naif-projects.github.io/interactive-rating-component/)
+- ✅ Order summary component [demo](https://naif-projects.github.io/order-summary-component/)
+- Stats preview card component
+- 3-column preview card component
+- Profile card component
+- FAQ accordion card
+- Social proof section
+- Article preview component
+- Four card feature section
+- Base Apparel coming soon page
+- Intro component with sign-up form
+- Single price grid component
+- Ping single column coming soon page
+- Huddle landing page with a single introductory section
