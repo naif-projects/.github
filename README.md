@@ -3,7 +3,7 @@
 ### NEWBIE
 
 - ✅ qr-code-component-main [demo](https://naif-projects.github.io/qr-code-component-main/)
-- NFT preview card component
+- ✅ NFT preview card component [demo](https://naif-projects.github.io/nft-preview-card-component-main/)
 - Interactive rating component
 - Order summary component
 - Stats preview card component
