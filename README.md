@@ -2,7 +2,7 @@
 
 ### NEWBIE
 
-- ✅ qr-code-component-main
+- ✅ qr-code-component-main [demo](https://naif-projects.github.io/qr-code-component-main/)
 - NFT preview card component
 - Interactive rating component
 - Order summary component
