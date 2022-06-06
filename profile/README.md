@@ -11,7 +11,7 @@
 - ✅ NFT preview card component [demo](https://naif-projects.github.io/nft-preview-card-component-main/)
 - ✅ Interactive rating component [demo](https://naif-projects.github.io/interactive-rating-component/)
 - ✅ Order summary component [demo](https://naif-projects.github.io/order-summary-component/)
-- Stats preview card component
+- ✅ Stats preview card component [demo](https://naif-projects.github.io/stats-preview-card-component/)
 - 3-column preview card component
 - Profile card component
 - FAQ accordion card
