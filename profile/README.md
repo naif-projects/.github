@@ -13,7 +13,7 @@
 - ✅ Order summary component [demo](https://naif-projects.github.io/order-summary-component/)
 - ✅ Stats preview card component [demo](https://naif-projects.github.io/stats-preview-card-component/)
 - ✅ 3-column preview card component [demo](https://naif-projects.github.io/column-preview-card-component/)
-- Profile card component
+- ✅ Profile card component [demo](https://naif-projects.github.io/pofile-card-component/)
 - FAQ accordion card
 - Social proof section
 - Article preview component
