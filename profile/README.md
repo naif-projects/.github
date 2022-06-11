@@ -14,7 +14,7 @@
 - ✅ Stats preview card component [demo](https://naif-projects.github.io/stats-preview-card-component/)
 - ✅ Column preview card component [demo](https://naif-projects.github.io/column-preview-card-component/)
 - ✅ Profile card component [demo](https://naif-projects.github.io/pofile-card-component/)
-- FAQ accordion card
+- ✅ FAQ accordion card [demo](https://naif-projects.github.io/faq-accordion-card/)
 - Social proof section
 - Article preview component
 - Four card feature section
